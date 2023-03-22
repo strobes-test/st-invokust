@@ -1,0 +1,16 @@
+*.pyc
+__pycache__
+*.zip
+python-packages
+.python-version
+.terraform
+*tfstate*
+invokust.egg-info
+dist
+build
+.terraform
+.idea
+.DS_Store
+.coverage
+htmlcov/
+output.txt
